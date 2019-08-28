@@ -58,12 +58,33 @@ Los resultados de los BLAST fueron graficados en función del logaritmo del E-Va
 >index = list(range(len(evalue)))
 >```
 
-Lo que generó los siguentes graficos, generados con bohek
+Lo que generó los siguentes graficos, generados con bohek, posteriormente de la filtración de secuencias de otras familias, determinado por el mayor peak de variación en el logaritmo de E-Value
 
-
-
-|![alt text](http://localhost:8888/files/Documentos/AVCR/Sequences/plot_ALK1.png "Blast de ALK1 conta SwissProt")|
+|![alt text](http://localhost:8888/files/Sequences/Plots/plot_ALK1_cutoff.png "Blast de ALK1 conta SwissProt")|
 |:---:|
 |_Blast de ALK1 conta SwissProt_|
 
+|![alt text](http://localhost:8888/files/Sequences/Plots/plot_ALK1_cutoff.png "Blast de ALK2 conta SwissProt")|
+|:---:|
+|_Blast de ALK2 conta SwissProt_|
+
+|![alt text](http://localhost:8888/files/Sequences/Plots/plot_ALK3_cutoff.png "Blast de ALK3 conta SwissProt")|
+|:---:|
+|_Blast de ALK3 conta SwissProt_|
+
+|![alt text](http://localhost:8888/files/Sequences/Plots/plot_ALK4_cutoff.png "Blast de ALK4 conta SwissProt")|
+|:---:|
+|_Blast de ALK4 conta SwissProt_|
+
+|![alt text](http://localhost:8888/files/Sequences/Plots/plot_ALK5_cutoff.png "Blast de ALK4 conta SwissProt")|
+|:---:|
+|_Blast de ALK5 conta SwissProt_|
+
+|![alt text](http://localhost:8888/files/Sequences/Plots/plot_ALK6_cutoff.png "Blast de ALK4 conta SwissProt")|
+|:---:|
+|_Blast de ALK6 conta SwissProt_|
+
+|![alt text](http://localhost:8888/files/Sequences/Plots/plot_ALK7_cutoff.png "Blast de ALK4 conta SwissProt")|
+|:---:|
+|_Blast de ALK7 conta SwissProt_|
 
